@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
