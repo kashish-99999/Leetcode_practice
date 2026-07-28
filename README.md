@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kashish-99999/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/kashish-99999/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [1021-remove-outermost-parentheses](https://github.com/kashish-99999/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
@@ -53,8 +54,10 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kashish-99999/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/kashish-99999/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kashish-99999/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/kashish-99999/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
