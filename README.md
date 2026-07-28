@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
+| [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 | [0001-two-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashish-99999/Leetcode_practice/tree/master/0035-search-insert-position) |
+| [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -41,6 +43,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kashish-99999/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashish-99999/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/kashish-99999/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
@@ -60,4 +63,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/kashish-99999/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashish-99999/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
