@@ -41,6 +41,7 @@
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kashish-99999/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashish-99999/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
@@ -67,4 +68,16 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
