@@ -24,6 +24,7 @@
 | [0001-two-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashish-99999/Leetcode_practice/tree/master/0035-search-insert-position) |
+| [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
 ## Binary Search
@@ -83,6 +84,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -94,4 +96,13 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
