@@ -43,6 +43,7 @@
 | [0002-add-two-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kashish-99999/Leetcode_practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0009-palindrome-number) |
+| [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -136,4 +137,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
