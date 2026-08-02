@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/kashish-99999/Leetcode_practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0009-palindrome-number) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
@@ -127,4 +128,12 @@
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0701-insert-into-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
