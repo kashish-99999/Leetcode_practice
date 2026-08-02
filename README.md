@@ -55,6 +55,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/kashish-99999/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashish-99999/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/kashish-99999/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/kashish-99999/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
@@ -63,6 +64,7 @@
 | [0015-3sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/kashish-99999/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -135,10 +137,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/kashish-99999/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/kashish-99999/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
