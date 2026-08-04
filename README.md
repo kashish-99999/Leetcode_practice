@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [3731-find-missing-elements](https://github.com/kashish-99999/Leetcode_practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0015-3sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/kashish-99999/Leetcode_practice/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
+| [3731-find-missing-elements](https://github.com/kashish-99999/Leetcode_practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
