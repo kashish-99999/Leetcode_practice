@@ -22,6 +22,7 @@
 | [0015-3sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
+| [3536-maximum-product-of-two-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kashish-99999/Leetcode_practice/tree/master/3731-find-missing-elements) |
 ## Array
 |  |
@@ -49,6 +50,7 @@
 | [0009-palindrome-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
