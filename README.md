@@ -109,6 +109,7 @@
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
