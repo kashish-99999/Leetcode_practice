@@ -54,6 +54,7 @@
 | [0009-palindrome-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
 |  |
@@ -184,4 +185,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/kashish-99999/Leetcode_practice/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
