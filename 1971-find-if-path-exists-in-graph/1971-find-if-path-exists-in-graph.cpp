@@ -1,27 +1,33 @@
 class Solution {
 public:
-    vector<int> parent;
-
-    int find(int x) {
-        if (parent[x] == x) return x;
-        return parent[x] = find(parent[x]);
-    }
-
-    void unite(int a, int b) {
-        parent[find(a)] = find(b);
-    }
-
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
-        parent.resize(n);
-
-        for (int i = 0; i < n; i++) {
-            parent[i] = i;
-        }
+        vector<vector<int>> graph(n);
 
         for (auto& edge : edges) {
-            unite(edge[0], edge[1]);
+            graph[edge[0]].push_back(edge[1]);
+            graph[edge[1]].push_back(edge[0]);
         }
 
-        return find(source) == find(destination);
+        vector<bool> vis(n, false);
+        queue<int> q;
+
+        q.push(source);
+        vis[source] = true;
+
+        while (!q.empty()) {
+            int node = q.front();
+            q.pop();
+
+            if (node == destination) return true;
+
+            for (int x : graph[node]) {
+                if (!vis[x]) {
+                    vis[x] = true;
+                    q.push(x);
+                }
+            }
+        }
+
+        return false;
     }
 };
