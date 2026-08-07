@@ -116,6 +116,7 @@
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kashish-99999/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -136,6 +137,7 @@
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kashish-99999/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -158,6 +160,7 @@
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kashish-99999/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
@@ -181,6 +184,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Memoization
 |  |
 | ------- |
@@ -205,10 +209,12 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
