@@ -114,6 +114,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kashish-99999/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
@@ -133,6 +134,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kashish-99999/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kashish-99999/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
@@ -198,4 +201,16 @@
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
