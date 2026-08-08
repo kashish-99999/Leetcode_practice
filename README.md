@@ -14,6 +14,7 @@
 | [0020-valid-parentheses](https://github.com/kashish-99999/Leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kashish-99999/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
@@ -68,6 +69,7 @@
 | [0225-implement-stack-using-queues](https://github.com/kashish-99999/Leetcode_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/kashish-99999/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kashish-99999/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
@@ -83,6 +85,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
 ## Design
@@ -98,6 +101,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 ## Tree
