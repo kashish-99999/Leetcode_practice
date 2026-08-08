@@ -37,6 +37,7 @@
 | [0088-merge-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kashish-99999/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -68,6 +69,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/kashish-99999/Leetcode_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/kashish-99999/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kashish-99999/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
 | ------- |
