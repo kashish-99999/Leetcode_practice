@@ -113,6 +113,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0700-search-in-a-binary-search-tree) |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0700-search-in-a-binary-search-tree) |
@@ -144,6 +147,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
