@@ -44,6 +44,7 @@
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
+| [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kashish-99999/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -54,6 +55,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashish-99999/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
+| [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kashish-99999/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -156,6 +159,7 @@
 | [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kashish-99999/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/kashish-99999/Leetcode_practice/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -165,12 +169,14 @@
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/kashish-99999/Leetcode_practice/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/kashish-99999/Leetcode_practice/tree/master/0785-is-graph-bipartite) |
+| [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/kashish-99999/Leetcode_practice/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
+| [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
@@ -229,6 +235,7 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
@@ -238,4 +245,5 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/kashish-99999/Leetcode_practice/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
