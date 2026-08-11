@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/kashish-99999/Leetcode_practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -26,6 +27,7 @@
 | [0088-merge-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kashish-99999/Leetcode_practice/tree/master/3731-find-missing-elements) |
 ## Array
@@ -43,6 +45,7 @@
 | [0503-next-greater-element-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kashish-99999/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/kashish-99999/Leetcode_practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
