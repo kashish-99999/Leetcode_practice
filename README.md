@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/kashish-99999/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -25,6 +26,7 @@
 | [0015-3sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/kashish-99999/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/kashish-99999/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -41,6 +43,7 @@
 | [0075-sort-colors](https://github.com/kashish-99999/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/kashish-99999/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
