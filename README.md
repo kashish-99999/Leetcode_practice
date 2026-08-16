@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kashish-99999/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
@@ -69,6 +70,7 @@
 | [0007-reverse-integer](https://github.com/kashish-99999/Leetcode_practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kashish-99999/Leetcode_practice/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -97,6 +99,7 @@
 | [0075-sort-colors](https://github.com/kashish-99999/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kashish-99999/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -271,4 +274,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
