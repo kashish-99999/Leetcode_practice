@@ -54,6 +54,7 @@
 | [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kashish-99999/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/kashish-99999/Leetcode_practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -300,4 +301,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
