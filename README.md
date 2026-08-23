@@ -22,6 +22,7 @@
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kashish-99999/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kashish-99999/Leetcode_practice/tree/master/1927-sum-game) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kashish-99999/Leetcode_practice/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 ## Stack
@@ -113,6 +115,7 @@
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kashish-99999/Leetcode_practice/tree/master/1927-sum-game) |
 ## Design
 |  |
 | ------- |
@@ -327,4 +330,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/kashish-99999/Leetcode_practice/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
