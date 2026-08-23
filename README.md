@@ -81,6 +81,7 @@
 | [1927-sum-game](https://github.com/kashish-99999/Leetcode_practice/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kashish-99999/Leetcode_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Stack
 |  |
 | ------- |
