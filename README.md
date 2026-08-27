@@ -70,6 +70,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kashish-99999/Leetcode_practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/kashish-99999/Leetcode_practice/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
 | [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Math
@@ -79,6 +80,7 @@
 | [0007-reverse-integer](https://github.com/kashish-99999/Leetcode_practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kashish-99999/Leetcode_practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/kashish-99999/Leetcode_practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -347,4 +349,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kashish-99999/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/kashish-99999/Leetcode_practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
