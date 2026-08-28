@@ -54,6 +54,7 @@
 | [0066-plus-one](https://github.com/kashish-99999/Leetcode_practice/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/kashish-99999/Leetcode_practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/kashish-99999/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/kashish-99999/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0268-missing-number) |
@@ -272,6 +273,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/kashish-99999/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
