@@ -22,6 +22,7 @@
 | [0125-valid-palindrome](https://github.com/kashish-99999/Leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/kashish-99999/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/kashish-99999/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
@@ -124,6 +125,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kashish-99999/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/kashish-99999/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/kashish-99999/Leetcode_practice/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/kashish-99999/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/kashish-99999/Leetcode_practice/tree/master/0787-cheapest-flights-within-k-stops) |
