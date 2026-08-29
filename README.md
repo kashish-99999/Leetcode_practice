@@ -89,6 +89,7 @@
 | [0066-plus-one](https://github.com/kashish-99999/Leetcode_practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kashish-99999/Leetcode_practice/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
