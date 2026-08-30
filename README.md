@@ -25,6 +25,7 @@
 | [0392-is-subsequence](https://github.com/kashish-99999/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/kashish-99999/Leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/kashish-99999/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/kashish-99999/Leetcode_practice/tree/master/1927-sum-game) |
@@ -113,6 +114,7 @@
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/kashish-99999/Leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/kashish-99999/Leetcode_practice/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
@@ -129,6 +131,7 @@
 | [0234-palindrome-linked-list](https://github.com/kashish-99999/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/kashish-99999/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
+| [0844-backspace-string-compare](https://github.com/kashish-99999/Leetcode_practice/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -349,6 +352,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/kashish-99999/Leetcode_practice/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Lifting
 |  |
