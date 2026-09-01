@@ -92,6 +92,7 @@
 | [0009-palindrome-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/kashish-99999/Leetcode_practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kashish-99999/Leetcode_practice/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/kashish-99999/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0268-missing-number) |
@@ -287,6 +288,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kashish-99999/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kashish-99999/Leetcode_practice/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/kashish-99999/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
@@ -295,6 +297,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kashish-99999/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 ## Bracket Sequences
 |  |
