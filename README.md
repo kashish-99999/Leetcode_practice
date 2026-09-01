@@ -173,6 +173,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kashish-99999/Leetcode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -190,6 +191,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/kashish-99999/Leetcode_practice/tree/master/0200-number-of-islands) |
@@ -215,6 +217,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kashish-99999/Leetcode_practice/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/kashish-99999/Leetcode_practice/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -290,6 +293,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/kashish-99999/Leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/kashish-99999/Leetcode_practice/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/kashish-99999/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0678-valid-parenthesis-string) |
@@ -358,6 +362,7 @@
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/kashish-99999/Leetcode_practice/tree/master/0543-diameter-of-binary-tree) |
 ## Simulation
 |  |
