@@ -10,6 +10,7 @@
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
+| [2784-check-if-array-is-good](https://github.com/kashish-99999/Leetcode_practice/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kashish-99999/Leetcode_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -43,6 +44,7 @@
 | [0268-missing-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [2784-check-if-array-is-good](https://github.com/kashish-99999/Leetcode_practice/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/kashish-99999/Leetcode_practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/kashish-99999/Leetcode_practice/tree/master/3731-find-missing-elements) |
@@ -70,6 +72,7 @@
 | [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kashish-99999/Leetcode_practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kashish-99999/Leetcode_practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2784-check-if-array-is-good](https://github.com/kashish-99999/Leetcode_practice/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
