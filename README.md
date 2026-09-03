@@ -10,6 +10,7 @@
 | [0219-contains-duplicate-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kashish-99999/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [2784-check-if-array-is-good](https://github.com/kashish-99999/Leetcode_practice/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kashish-99999/Leetcode_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -43,6 +44,7 @@
 | [0217-contains-duplicate](https://github.com/kashish-99999/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kashish-99999/Leetcode_practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kashish-99999/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kashish-99999/Leetcode_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [2784-check-if-array-is-good](https://github.com/kashish-99999/Leetcode_practice/tree/master/2784-check-if-array-is-good) |
@@ -66,6 +68,7 @@
 | [0217-contains-duplicate](https://github.com/kashish-99999/Leetcode_practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kashish-99999/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0503-next-greater-element-ii) |
@@ -88,6 +91,7 @@
 | [0035-search-insert-position](https://github.com/kashish-99999/Leetcode_practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/kashish-99999/Leetcode_practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/kashish-99999/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/kashish-99999/Leetcode_practice/tree/master/0704-binary-search) |
 | [1631-path-with-minimum-effort](https://github.com/kashish-99999/Leetcode_practice/tree/master/1631-path-with-minimum-effort) |
 ## Math
@@ -139,6 +143,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kashish-99999/Leetcode_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kashish-99999/Leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/kashish-99999/Leetcode_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/kashish-99999/Leetcode_practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kashish-99999/Leetcode_practice/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/kashish-99999/Leetcode_practice/tree/master/0680-valid-palindrome-ii) |
