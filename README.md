@@ -84,6 +84,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/kashish-99999/Leetcode_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kashish-99999/Leetcode_practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -406,4 +407,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/kashish-99999/Leetcode_practice/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/kashish-99999/Leetcode_practice/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
