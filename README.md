@@ -1,8 +1,7 @@
-# 🚀 LeetCode Practice – Kashish
+# 🚀 LeetCode Solutions by Kashish
 
-This repository contains my **daily LeetCode problem solutions**.  
-Each file is named after the actual problem I solved, so you can track my progress directly here.  
-I update this repo regularly as I continue practicing.
+Welcome to my collection of **LeetCode problems** solved daily using **LeetHub v2**.  
+Each file is named after the actual problem I solved — this repository grows every day as I commit new solutions.
 
 ---
 
@@ -14,23 +13,43 @@ I update this repo regularly as I continue practicing.
 
 ---
 
-## 📂 Repository Structure
-- Problems organized by name (e.g., `Two_Sum.cpp`, `Valid_Parentheses.java`)  
-- Covers topics like Arrays, Strings, Linked Lists, Trees, Graphs, and Dynamic Programming  
-- Updated daily with new solutions
+## 📁 Repository Structure
+- Folders: Easy, Medium, Hard  
+- Categories: Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming  
+- Updated automatically as new problems are solved
 
 ---
 
 ## 📊 Live LeetCode Stats
 This card updates automatically with my solved problems, streaks, and heatmap:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/kashish-99999?theme=tokyo-night&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/_c_as_h_e_w?theme=tokyo-night&ext=heatmap)
+
+---
+
+## 🧩 Progress Overview
+
+| Difficulty | Solved | Total | Progress |
+|-------------|---------|--------|-----------|
+| 🟢 Easy | 64 | 963 | ![Progress](https://img.shields.io/badge/Progress-6.6%25-brightgreen?style=for-the-badge) |
+| 🟡 Medium | 24 | 2111 | ![Progress](https://img.shields.io/badge/Progress-1.1%25-yellow?style=for-the-badge) |
+| 🔴 Hard | 1 | 972 | ![Progress](https://img.shields.io/badge/Progress-0.1%25-red?style=for-the-badge) |
+
+> 💡 These numbers update automatically as I commit new solutions to this repository.
 
 ---
 
 ## 🏆 Goals
-- Strengthen **problem‑solving skills** for interviews and real‑world projects  
+- Complete **Striver’s DSA Sheet**  
+- Reach **150+ solved problems** by end of 2026  
+- Strengthen **problem‑solving and system‑design** skills  
 - Keep this repository updated daily
+
+---
+
+## 🔗 Connect With Me
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_c_as_h_e_w/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kashish-99999)
 
 # LeetCode Topics
 ## Hash Table
