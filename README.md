@@ -1,42 +1,37 @@
-# 🚀 LeetCode Solutions by Kashish
+# 🚀 LeetCode Practice – Kashish
 
-Welcome to my collection of LeetCode problems solved using **LeetHub v2**.
-
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Progress](https://img.shields.io/badge/Progress-Tracking-blue?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-AutoSync-black?style=for-the-badge&logo=github)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+This repository contains my **daily LeetCode problem solutions**.  
+Each file is named after the actual problem I solved, so you can track my progress directly here.  
+I update this repo regularly as I continue practicing.
 
 ---
 
-## 📁 Repository Structure
-- Easy, Medium, Hard folders  
-- Categories: Arrays, Strings, Linked Lists, Dynamic Programming, Trees, Graphs  
+## 🧠 About Me
+- 🎓 Third‑year Computer Science Engineering student  
+- 💻 Focused on **backend development** with some frontend knowledge  
+- 🧩 Passionate about **problem solving** and applying concepts to real‑world practicality  
+- 🚀 Goal: Become a successful software developer
 
 ---
 
-## 🧠 Languages Used
-C++ | Java | Python  
+## 📂 Repository Structure
+- Problems organized by name (e.g., `Two_Sum.cpp`, `Valid_Parentheses.java`)  
+- Covers topics like Arrays, Strings, Linked Lists, Trees, Graphs, and Dynamic Programming  
+- Updated daily with new solutions
 
-| Difficulty | Solved | Total | Progress |
-|-------------|---------|--------|-----------|
-| Easy | 20 | 700 | ![Progress](https://img.shields.io/badge/Progress-3%25-brightgreen?style=for-the-badge) |
-| Medium | 10 | 800 | ![Progress](https://img.shields.io/badge/Progress-1%25-orange?style=for-the-badge) |
-| Hard | 2 | 400 | ![Progress](https://img.shields.io/badge/Progress-0.5%25-red?style=for-the-badge) |
+---
+
+## 📊 Live LeetCode Stats
+This card updates automatically with my solved problems, streaks, and heatmap:
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/kashish-99999?theme=tokyo-night&ext=heatmap)
 
 ---
 
 ## 🏆 Goals
-- Complete **Striver’s DSA Sheet**  
-- Solve 500+ LeetCode problems before graduation  
-- Focus on **problem‑solving and real‑world practicality**
+- Strengthen **problem‑solving skills** for interviews and real‑world projects  
+- Keep this repository updated daily
 
----
-
-## 📊 Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/kashish-99999?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
-# Leetcode_practice
-<!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
 |  |
