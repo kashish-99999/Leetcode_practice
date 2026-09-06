@@ -1,3 +1,40 @@
+# 🚀 LeetCode Solutions by Kashish
+
+Welcome to my collection of LeetCode problems solved using **LeetHub v2**.
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Progress](https://img.shields.io/badge/Progress-Tracking-blue?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-AutoSync-black?style=for-the-badge&logo=github)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 📁 Repository Structure
+- Easy, Medium, Hard folders  
+- Categories: Arrays, Strings, Linked Lists, Dynamic Programming, Trees, Graphs  
+
+---
+
+## 🧠 Languages Used
+C++ | Java | Python  
+
+| Difficulty | Solved | Total | Progress |
+|-------------|---------|--------|-----------|
+| Easy | 20 | 700 | ![Progress](https://img.shields.io/badge/Progress-3%25-brightgreen?style=for-the-badge) |
+| Medium | 10 | 800 | ![Progress](https://img.shields.io/badge/Progress-1%25-orange?style=for-the-badge) |
+| Hard | 2 | 400 | ![Progress](https://img.shields.io/badge/Progress-0.5%25-red?style=for-the-badge) |
+
+---
+
+## 🏆 Goals
+- Complete **Striver’s DSA Sheet**  
+- Solve 500+ LeetCode problems before graduation  
+- Focus on **problem‑solving and real‑world practicality**
+
+---
+
+## 📊 Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/kashish-99999?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
 # Leetcode_practice
 <!---LeetCode Topics Start-->
 # LeetCode Topics
